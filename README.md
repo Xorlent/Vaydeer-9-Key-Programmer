@@ -11,7 +11,7 @@ writes that into the keypad and verifies the change.  Nothing to install.
 ## What you need
 
 * The keypad plugged into the computer.
-* The `Vaydeer9` executable.
+* A `Vaydeer9` executable, either compiled or downloaded from the /bin folder of this repository.
 
 Open a terminal window to the folder with the Vaydeer9 executable, then proceed as shown below.  _On Linux only, additional steps (below) are necessary to grant access for non-root execution._
 
