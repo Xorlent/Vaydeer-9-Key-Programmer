@@ -10,7 +10,7 @@ writes that into the keypad and verifies the change.  Nothing to install.
 
 ## What you need
 
-* The keypad plugged into the computer.
+* The [keypad](https://www.amazon.ca/dp/B08V8GNHLF) plugged into the computer.
 * A `Vaydeer9` executable, either compiled or downloaded from the /bin folder of this repository.
 
 Open a terminal window to the folder with the Vaydeer9 executable, then proceed as shown below.  _On Linux only, additional steps (below) are necessary to grant access for non-root execution._
